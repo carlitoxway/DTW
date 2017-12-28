@@ -1,2 +1,2 @@
-# dtw
-Following the instructions
+# DTW
+Following Instructions
